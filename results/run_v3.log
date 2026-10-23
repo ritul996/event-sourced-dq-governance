@@ -1,0 +1,49 @@
+[b3_light] rep 0: 274s reached=266/266 median=0.0103s audit=1.0000 final_ok=True gate=None err=None
+[b3_light] rep 1: 78s reached=259/259 median=0.0114s audit=1.0000 final_ok=True gate=None err=None
+[b3_light] rep 2: 96s reached=270/270 median=0.0114s audit=1.0000 final_ok=True gate=None err=None
+[b3_light] rep 3: 79s reached=266/266 median=0.0120s audit=1.0000 final_ok=True gate=None err=None
+[b3_light] rep 4: 85s reached=271/271 median=0.0114s audit=1.0000 final_ok=True gate=None err=None
+[b3_light] rep 5: 92s reached=269/269 median=0.0121s audit=1.0000 final_ok=True gate=None err=None
+[b3_light] rep 6: 96s reached=275/275 median=0.0118s audit=1.0000 final_ok=True gate=None err=None
+[b3_light] rep 7: 91s reached=274/274 median=0.0114s audit=1.0000 final_ok=True gate=None err=None
+[b3_light] rep 8: 92s reached=272/272 median=0.0113s audit=1.0000 final_ok=True gate=None err=None
+[b3_light] rep 9: 91s reached=273/273 median=0.0112s audit=1.0000 final_ok=True gate=None err=None
+[es_gate] rep 0: 91s reached=256/275 median=0.0957s audit=1.0000 final_ok=True gate={'mode': 'impact', 'faulty_approved': 17, 'faulty_blocked': 16, 'faulty_reached_prod': 1, 'faulty_blocked_env': {'dev': 13, 'uat': 1, 'prod_test': 2}, 'normal_approved': 258, 'normal_blocked': 3, 'gate_checks': 745} err=0
+[es_gate] rep 1: 90s reached=249/261 median=0.0904s audit=1.0000 final_ok=True gate={'mode': 'impact', 'faulty_approved': 9, 'faulty_blocked': 8, 'faulty_reached_prod': 1, 'faulty_blocked_env': {'dev': 7, 'uat': 1, 'prod_test': 0}, 'normal_approved': 252, 'normal_blocked': 4, 'gate_checks': 729} err=0
+[es_gate] rep 2: 99s reached=251/270 median=0.0885s audit=1.0000 final_ok=True gate={'mode': 'impact', 'faulty_approved': 15, 'faulty_blocked': 15, 'faulty_reached_prod': 0, 'faulty_blocked_env': {'dev': 12, 'uat': 3, 'prod_test': 0}, 'normal_approved': 255, 'normal_blocked': 4, 'gate_checks': 726} err=0
+[es_gate] rep 3: 89s reached=248/264 median=0.0998s audit=1.0000 final_ok=True gate={'mode': 'impact', 'faulty_approved': 14, 'faulty_blocked': 14, 'faulty_reached_prod': 0, 'faulty_blocked_env': {'dev': 13, 'uat': 0, 'prod_test': 1}, 'normal_approved': 250, 'normal_blocked': 2, 'gate_checks': 723} err=0
+[es_gate] rep 4: 97s reached=248/269 median=0.0949s audit=1.0000 final_ok=True gate={'mode': 'impact', 'faulty_approved': 19, 'faulty_blocked': 18, 'faulty_reached_prod': 1, 'faulty_blocked_env': {'dev': 17, 'uat': 1, 'prod_test': 0}, 'normal_approved': 250, 'normal_blocked': 3, 'gate_checks': 718} err=0
+[es_gate] rep 5: 86s reached=244/264 median=0.0920s audit=1.0000 final_ok=True gate={'mode': 'impact', 'faulty_approved': 15, 'faulty_blocked': 15, 'faulty_reached_prod': 0, 'faulty_blocked_env': {'dev': 13, 'uat': 2, 'prod_test': 0}, 'normal_approved': 249, 'normal_blocked': 5, 'gate_checks': 719} err=0
+[es_gate] rep 6: 105s reached=253/274 median=0.0983s audit=1.0000 final_ok=True gate={'mode': 'impact', 'faulty_approved': 16, 'faulty_blocked': 15, 'faulty_reached_prod': 1, 'faulty_blocked_env': {'dev': 14, 'uat': 0, 'prod_test': 1}, 'normal_approved': 258, 'normal_blocked': 6, 'gate_checks': 752} err=0
+[es_gate] rep 7: 98s reached=259/270 median=0.0975s audit=1.0000 final_ok=True gate={'mode': 'impact', 'faulty_approved': 8, 'faulty_blocked': 7, 'faulty_reached_prod': 1, 'faulty_blocked_env': {'dev': 7, 'uat': 0, 'prod_test': 0}, 'normal_approved': 262, 'normal_blocked': 4, 'gate_checks': 760} err=0
+[es_gate] rep 8: 97s reached=262/276 median=0.0935s audit=1.0000 final_ok=True gate={'mode': 'impact', 'faulty_approved': 10, 'faulty_blocked': 10, 'faulty_reached_prod': 0, 'faulty_blocked_env': {'dev': 6, 'uat': 2, 'prod_test': 2}, 'normal_approved': 266, 'normal_blocked': 4, 'gate_checks': 772} err=0
+[es_gate] rep 9: 88s reached=263/274 median=0.0901s audit=1.0000 final_ok=True gate={'mode': 'impact', 'faulty_approved': 8, 'faulty_blocked': 8, 'faulty_reached_prod': 0, 'faulty_blocked_env': {'dev': 6, 'uat': 2, 'prod_test': 0}, 'normal_approved': 266, 'normal_blocked': 3, 'gate_checks': 754} err=0
+[abl_nodedup] rep 0: 91s reached=267/267 median=0.0919s audit=1.0000 final_ok=True gate={'mode': 'exec', 'faulty_approved': 0, 'faulty_blocked': 0, 'faulty_reached_prod': 0, 'faulty_blocked_env': {'dev': 0, 'uat': 0, 'prod_test': 0}, 'normal_approved': 267, 'normal_blocked': 0, 'gate_checks': 0} err=0
+[abl_nodedup] rep 1: 83s reached=259/259 median=0.0865s audit=1.0000 final_ok=True gate={'mode': 'exec', 'faulty_approved': 0, 'faulty_blocked': 0, 'faulty_reached_prod': 0, 'faulty_blocked_env': {'dev': 0, 'uat': 0, 'prod_test': 0}, 'normal_approved': 259, 'normal_blocked': 0, 'gate_checks': 0} err=0
+[abl_nodedup] rep 2: 101s reached=274/274 median=0.0899s audit=1.0000 final_ok=True gate={'mode': 'exec', 'faulty_approved': 0, 'faulty_blocked': 0, 'faulty_reached_prod': 0, 'faulty_blocked_env': {'dev': 0, 'uat': 0, 'prod_test': 0}, 'normal_approved': 274, 'normal_blocked': 0, 'gate_checks': 0} err=0
+[abl_nopolicy] rep 0: 91s reached=258/258 median=0.0907s audit=1.0000 final_ok=True gate={'mode': 'exec', 'faulty_approved': 0, 'faulty_blocked': 0, 'faulty_reached_prod': 0, 'faulty_blocked_env': {'dev': 0, 'uat': 0, 'prod_test': 0}, 'normal_approved': 258, 'normal_blocked': 0, 'gate_checks': 0} err=0
+[abl_nopolicy] rep 1: 83s reached=246/246 median=0.0869s audit=1.0000 final_ok=True gate={'mode': 'exec', 'faulty_approved': 0, 'faulty_blocked': 0, 'faulty_reached_prod': 0, 'faulty_blocked_env': {'dev': 0, 'uat': 0, 'prod_test': 0}, 'normal_approved': 246, 'normal_blocked': 0, 'gate_checks': 0} err=0
+[abl_nopolicy] rep 2: 94s reached=269/269 median=0.0893s audit=1.0000 final_ok=True gate={'mode': 'exec', 'faulty_approved': 0, 'faulty_blocked': 0, 'faulty_reached_prod': 0, 'faulty_blocked_env': {'dev': 0, 'uat': 0, 'prod_test': 0}, 'normal_approved': 269, 'normal_blocked': 0, 'gate_checks': 0} err=0
+[abl_randpart] rep 0: 101s reached=268/268 median=0.2658s audit=0.6336 final_ok=False gate={'mode': 'exec', 'faulty_approved': 0, 'faulty_blocked': 0, 'faulty_reached_prod': 0, 'faulty_blocked_env': {'dev': 0, 'uat': 0, 'prod_test': 0}, 'normal_approved': 268, 'normal_blocked': 0, 'gate_checks': 0} err=9
+[abl_randpart] rep 1: 83s reached=259/259 median=0.2593s audit=0.6874 final_ok=False gate={'mode': 'exec', 'faulty_approved': 0, 'faulty_blocked': 0, 'faulty_reached_prod': 0, 'faulty_blocked_env': {'dev': 0, 'uat': 0, 'prod_test': 0}, 'normal_approved': 259, 'normal_blocked': 0, 'gate_checks': 0} err=16
+[abl_randpart] rep 2: 100s reached=271/271 median=0.2591s audit=0.6600 final_ok=False gate={'mode': 'exec', 'faulty_approved': 0, 'faulty_blocked': 0, 'faulty_reached_prod': 0, 'faulty_blocked_env': {'dev': 0, 'uat': 0, 'prod_test': 0}, 'normal_approved': 271, 'normal_blocked': 0, 'gate_checks': 0} err=5
+abl_nodedup_r0 {'C1': 0, 'C2': 0, 'C3': 0, 'C4': 0, 'C5': 0, 'C6': 0, 'C7': 1, 'C8': 0, 'C9': 0, 'C10': 0} dup_prom 153
+abl_nodedup_r1 {'C1': 0, 'C2': 0, 'C3': 0, 'C4': 0, 'C5': 0, 'C6': 0, 'C7': 1, 'C8': 0, 'C9': 0, 'C10': 0} dup_prom 136
+abl_nodedup_r2 {'C1': 0, 'C2': 0, 'C3': 0, 'C4': 0, 'C5': 0, 'C6': 0, 'C7': 1, 'C8': 0, 'C9': 0, 'C10': 0} dup_prom 123
+abl_nopolicy_r0 {'C1': 0, 'C2': 0, 'C3': 3, 'C4': 5, 'C5': 0, 'C6': 0, 'C7': 0, 'C8': 0, 'C9': 0, 'C10': 0} dup_prom 0
+abl_nopolicy_r1 {'C1': 0, 'C2': 0, 'C3': 8, 'C4': 5, 'C5': 0, 'C6': 0, 'C7': 0, 'C8': 0, 'C9': 0, 'C10': 0} dup_prom 0
+abl_nopolicy_r2 {'C1': 0, 'C2': 0, 'C3': 4, 'C4': 3, 'C5': 0, 'C6': 0, 'C7': 0, 'C8': 0, 'C9': 0, 'C10': 0} dup_prom 0
+abl_randpart_r0 {'C1': 1668, 'C2': 0, 'C3': 0, 'C4': 105, 'C5': 1525, 'C6': 1386, 'C7': 0, 'C8': 0, 'C9': 0, 'C10': 1} dup_prom 0
+abl_randpart_r1 {'C1': 1632, 'C2': 0, 'C3': 0, 'C4': 110, 'C5': 1465, 'C6': 1360, 'C7': 0, 'C8': 0, 'C9': 0, 'C10': 1} dup_prom 0
+abl_randpart_r2 {'C1': 1674, 'C2': 0, 'C3': 0, 'C4': 92, 'C5': 1527, 'C6': 1392, 'C7': 0, 'C8': 0, 'C9': 0, 'C10': 1} dup_prom 0
+es_gate_r0 {'C1': 0, 'C2': 0, 'C3': 0, 'C4': 0, 'C5': 0, 'C6': 0, 'C7': 0, 'C8': 0, 'C9': 0, 'C10': 0} dup_prom 0
+es_gate_r1 {'C1': 0, 'C2': 0, 'C3': 0, 'C4': 0, 'C5': 0, 'C6': 0, 'C7': 0, 'C8': 0, 'C9': 0, 'C10': 0} dup_prom 0
+es_gate_r2 {'C1': 0, 'C2': 0, 'C3': 0, 'C4': 0, 'C5': 0, 'C6': 0, 'C7': 0, 'C8': 0, 'C9': 0, 'C10': 0} dup_prom 0
+es_gate_r3 {'C1': 0, 'C2': 0, 'C3': 0, 'C4': 0, 'C5': 0, 'C6': 0, 'C7': 0, 'C8': 0, 'C9': 0, 'C10': 0} dup_prom 0
+es_gate_r4 {'C1': 0, 'C2': 0, 'C3': 0, 'C4': 0, 'C5': 0, 'C6': 0, 'C7': 0, 'C8': 0, 'C9': 0, 'C10': 0} dup_prom 0
+es_gate_r5 {'C1': 0, 'C2': 0, 'C3': 0, 'C4': 0, 'C5': 0, 'C6': 0, 'C7': 0, 'C8': 0, 'C9': 0, 'C10': 0} dup_prom 0
+es_gate_r6 {'C1': 0, 'C2': 0, 'C3': 0, 'C4': 0, 'C5': 0, 'C6': 0, 'C7': 0, 'C8': 0, 'C9': 0, 'C10': 0} dup_prom 0
+es_gate_r7 {'C1': 0, 'C2': 0, 'C3': 0, 'C4': 0, 'C5': 0, 'C6': 0, 'C7': 0, 'C8': 0, 'C9': 0, 'C10': 0} dup_prom 0
+es_gate_r8 {'C1': 0, 'C2': 0, 'C3': 0, 'C4': 0, 'C5': 0, 'C6': 0, 'C7': 0, 'C8': 0, 'C9': 0, 'C10': 0} dup_prom 0
+es_gate_r9 {'C1': 0, 'C2': 0, 'C3': 0, 'C4': 0, 'C5': 0, 'C6': 0, 'C7': 0, 'C8': 0, 'C9': 0, 'C10': 0} dup_prom 0
+cost done 32 10

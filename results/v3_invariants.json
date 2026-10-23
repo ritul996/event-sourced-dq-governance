@@ -1,0 +1,396 @@
+{
+ "abl_nodedup_r0": {
+  "violations": {
+   "C1": 0,
+   "C2": 0,
+   "C3": 0,
+   "C4": 0,
+   "C5": 0,
+   "C6": 0,
+   "C7": 1,
+   "C8": 0,
+   "C9": 0,
+   "C10": 0
+  },
+  "examples": {
+   "C7": "applied 2389 rows / 2268 distinct vs 2268 logged"
+  },
+  "duplicate_promotions": 153,
+  "events": 2268,
+  "rules": 288,
+  "final_pairs": 1084
+ },
+ "abl_nodedup_r1": {
+  "violations": {
+   "C1": 0,
+   "C2": 0,
+   "C3": 0,
+   "C4": 0,
+   "C5": 0,
+   "C6": 0,
+   "C7": 1,
+   "C8": 0,
+   "C9": 0,
+   "C10": 0
+  },
+  "examples": {
+   "C7": "applied 2328 rows / 2211 distinct vs 2211 logged"
+  },
+  "duplicate_promotions": 136,
+  "events": 2211,
+  "rules": 284,
+  "final_pairs": 1100
+ },
+ "abl_nodedup_r2": {
+  "violations": {
+   "C1": 0,
+   "C2": 0,
+   "C3": 0,
+   "C4": 0,
+   "C5": 0,
+   "C6": 0,
+   "C7": 1,
+   "C8": 0,
+   "C9": 0,
+   "C10": 0
+  },
+  "examples": {
+   "C7": "applied 2382 rows / 2273 distinct vs 2273 logged"
+  },
+  "duplicate_promotions": 123,
+  "events": 2273,
+  "rules": 290,
+  "final_pairs": 1100
+ },
+ "abl_nopolicy_r0": {
+  "violations": {
+   "C1": 0,
+   "C2": 0,
+   "C3": 3,
+   "C4": 5,
+   "C5": 0,
+   "C6": 0,
+   "C7": 0,
+   "C8": 0,
+   "C9": 0,
+   "C10": 0
+  },
+  "examples": {
+   "C3": "self-approval R0236 v3 by author10",
+   "C4": "high-risk approval without justification R0092 v3"
+  },
+  "duplicate_promotions": 0,
+  "events": 2110,
+  "rules": 288,
+  "final_pairs": 1084
+ },
+ "abl_nopolicy_r1": {
+  "violations": {
+   "C1": 0,
+   "C2": 0,
+   "C3": 8,
+   "C4": 5,
+   "C5": 0,
+   "C6": 0,
+   "C7": 0,
+   "C8": 0,
+   "C9": 0,
+   "C10": 0
+  },
+  "examples": {
+   "C3": "self-approval R0152 v3 by author13",
+   "C4": "high-risk approval without justification R0190 v3"
+  },
+  "duplicate_promotions": 0,
+  "events": 2075,
+  "rules": 284,
+  "final_pairs": 1100
+ },
+ "abl_nopolicy_r2": {
+  "violations": {
+   "C1": 0,
+   "C2": 0,
+   "C3": 4,
+   "C4": 3,
+   "C5": 0,
+   "C6": 0,
+   "C7": 0,
+   "C8": 0,
+   "C9": 0,
+   "C10": 0
+  },
+  "examples": {
+   "C4": "high-risk approval without justification R0019 v3",
+   "C3": "self-approval R0057 v3 by author1"
+  },
+  "duplicate_promotions": 0,
+  "events": 2160,
+  "rules": 290,
+  "final_pairs": 1100
+ },
+ "abl_randpart_r0": {
+  "violations": {
+   "C1": 1668,
+   "C2": 0,
+   "C3": 0,
+   "C4": 105,
+   "C5": 1525,
+   "C6": 1386,
+   "C7": 0,
+   "C8": 0,
+   "C9": 0,
+   "C10": 1
+  },
+  "examples": {
+   "C1": "rule R0001 split across partitions",
+   "C6": "version gap R0017 v2",
+   "C5": "promotion without valid approval R0101 v3 -> dev",
+   "C4": "risk mislabelled R0134 v3",
+   "C10": "863 (env, rule) pairs differ, e.g. [('dev', 'R0001'), ('dev', 'R0002')]"
+  },
+  "duplicate_promotions": 0,
+  "events": 2120,
+  "rules": 288,
+  "final_pairs": 968
+ },
+ "abl_randpart_r1": {
+  "violations": {
+   "C1": 1632,
+   "C2": 0,
+   "C3": 0,
+   "C4": 110,
+   "C5": 1465,
+   "C6": 1360,
+   "C7": 0,
+   "C8": 0,
+   "C9": 0,
+   "C10": 1
+  },
+  "examples": {
+   "C1": "rule R0008 split across partitions",
+   "C6": "version gap R0005 v2",
+   "C5": "rollback target never active in prod R0072 v1",
+   "C4": "risk mislabelled R0235 v3",
+   "C10": "868 (env, rule) pairs differ, e.g. [('dev', 'R0001'), ('dev', 'R0002')]"
+  },
+  "duplicate_promotions": 0,
+  "events": 2075,
+  "rules": 284,
+  "final_pairs": 980
+ },
+ "abl_randpart_r2": {
+  "violations": {
+   "C1": 1674,
+   "C2": 0,
+   "C3": 0,
+   "C4": 92,
+   "C5": 1527,
+   "C6": 1392,
+   "C7": 0,
+   "C8": 0,
+   "C9": 0,
+   "C10": 1
+  },
+  "examples": {
+   "C1": "rule R0012 split across partitions",
+   "C6": "version gap R0005 v2",
+   "C5": "approval of unknown version R0198 v3",
+   "C4": "risk mislabelled R0137 v3",
+   "C10": "922 (env, rule) pairs differ, e.g. [('dev', 'R0001'), ('dev', 'R0002')]"
+  },
+  "duplicate_promotions": 0,
+  "events": 2135,
+  "rules": 290,
+  "final_pairs": 976
+ },
+ "es_gate_r0": {
+  "violations": {
+   "C1": 0,
+   "C2": 0,
+   "C3": 0,
+   "C4": 0,
+   "C5": 0,
+   "C6": 0,
+   "C7": 0,
+   "C8": 0,
+   "C9": 0,
+   "C10": 0
+  },
+  "examples": {},
+  "duplicate_promotions": 0,
+  "events": 2123,
+  "rules": 293,
+  "final_pairs": 1103
+ },
+ "es_gate_r1": {
+  "violations": {
+   "C1": 0,
+   "C2": 0,
+   "C3": 0,
+   "C4": 0,
+   "C5": 0,
+   "C6": 0,
+   "C7": 0,
+   "C8": 0,
+   "C9": 0,
+   "C10": 0
+  },
+  "examples": {},
+  "duplicate_promotions": 0,
+  "events": 2067,
+  "rules": 281,
+  "final_pairs": 1072
+ },
+ "es_gate_r2": {
+  "violations": {
+   "C1": 0,
+   "C2": 0,
+   "C3": 0,
+   "C4": 0,
+   "C5": 0,
+   "C6": 0,
+   "C7": 0,
+   "C8": 0,
+   "C9": 0,
+   "C10": 0
+  },
+  "examples": {},
+  "duplicate_promotions": 0,
+  "events": 2097,
+  "rules": 281,
+  "final_pairs": 1055
+ },
+ "es_gate_r3": {
+  "violations": {
+   "C1": 0,
+   "C2": 0,
+   "C3": 0,
+   "C4": 0,
+   "C5": 0,
+   "C6": 0,
+   "C7": 0,
+   "C8": 0,
+   "C9": 0,
+   "C10": 0
+  },
+  "examples": {},
+  "duplicate_promotions": 0,
+  "events": 2070,
+  "rules": 279,
+  "final_pairs": 1064
+ },
+ "es_gate_r4": {
+  "violations": {
+   "C1": 0,
+   "C2": 0,
+   "C3": 0,
+   "C4": 0,
+   "C5": 0,
+   "C6": 0,
+   "C7": 0,
+   "C8": 0,
+   "C9": 0,
+   "C10": 0
+  },
+  "examples": {},
+  "duplicate_promotions": 0,
+  "events": 2084,
+  "rules": 276,
+  "final_pairs": 1040
+ },
+ "es_gate_r5": {
+  "violations": {
+   "C1": 0,
+   "C2": 0,
+   "C3": 0,
+   "C4": 0,
+   "C5": 0,
+   "C6": 0,
+   "C7": 0,
+   "C8": 0,
+   "C9": 0,
+   "C10": 0
+  },
+  "examples": {},
+  "duplicate_promotions": 0,
+  "events": 2069,
+  "rules": 268,
+  "final_pairs": 1011
+ },
+ "es_gate_r6": {
+  "violations": {
+   "C1": 0,
+   "C2": 0,
+   "C3": 0,
+   "C4": 0,
+   "C5": 0,
+   "C6": 0,
+   "C7": 0,
+   "C8": 0,
+   "C9": 0,
+   "C10": 0
+  },
+  "examples": {},
+  "duplicate_promotions": 0,
+  "events": 2116,
+  "rules": 284,
+  "final_pairs": 1085
+ },
+ "es_gate_r7": {
+  "violations": {
+   "C1": 0,
+   "C2": 0,
+   "C3": 0,
+   "C4": 0,
+   "C5": 0,
+   "C6": 0,
+   "C7": 0,
+   "C8": 0,
+   "C9": 0,
+   "C10": 0
+  },
+  "examples": {},
+  "duplicate_promotions": 0,
+  "events": 2110,
+  "rules": 279,
+  "final_pairs": 1072
+ },
+ "es_gate_r8": {
+  "violations": {
+   "C1": 0,
+   "C2": 0,
+   "C3": 0,
+   "C4": 0,
+   "C5": 0,
+   "C6": 0,
+   "C7": 0,
+   "C8": 0,
+   "C9": 0,
+   "C10": 0
+  },
+  "examples": {},
+  "duplicate_promotions": 0,
+  "events": 2140,
+  "rules": 290,
+  "final_pairs": 1111
+ },
+ "es_gate_r9": {
+  "violations": {
+   "C1": 0,
+   "C2": 0,
+   "C3": 0,
+   "C4": 0,
+   "C5": 0,
+   "C6": 0,
+   "C7": 0,
+   "C8": 0,
+   "C9": 0,
+   "C10": 0
+  },
+  "examples": {},
+  "duplicate_promotions": 0,
+  "events": 2130,
+  "rules": 284,
+  "final_pairs": 1069
+ }
+}

@@ -1,0 +1,17 @@
+rep 0: {'mode': 'impact', 'faulty_approved': 17, 'faulty_blocked': 15, 'faulty_reached_prod': 2, 'faulty_blocked_env': {'dev': 12, 'uat': 2, 'prod_test': 1}, 'normal_approved': 260, 'normal_blocked': 3, 'gate_checks': 754}
+rep 1: {'mode': 'impact', 'faulty_approved': 9, 'faulty_blocked': 9, 'faulty_reached_prod': 0, 'faulty_blocked_env': {'dev': 7, 'uat': 2, 'prod_test': 0}, 'normal_approved': 251, 'normal_blocked': 2, 'gate_checks': 728}
+rep 2: {'mode': 'impact', 'faulty_approved': 15, 'faulty_blocked': 15, 'faulty_reached_prod': 0, 'faulty_blocked_env': {'dev': 12, 'uat': 3, 'prod_test': 0}, 'normal_approved': 255, 'normal_blocked': 5, 'gate_checks': 726}
+faulty reaching prod: 2
+  1000 R0010 [('dev', 0, 0, 0), ('uat', 2, 3, 5), ('prod_test', 6, 9, 15)]
+  1000 R0014 [('dev', 0, 1, 1), ('uat', 3, 2, 5), ('prod_test', 4, 3, 7)]
+false blocks: 10 Counter({'update': 5, None: 5}) Counter({'prod_test': 5, 'dev': 4, 'uat': 1})
+   R0143 update dev 394 11 464
+   R0177 update prod_test 271 54 2092
+   R0291 None uat 6 0 11
+   R0254 None prod_test 7 0 19
+   R0255 None prod_test 6 0 33
+   R0170 update dev 258 30 739
+   R0155 update dev 601 26 766
+   R0260 None prod_test 7 0 19
+   R0143 update dev 394 11 464
+   R0279 None prod_test 9 0 15

@@ -1,0 +1,55 @@
+[es_light] rep 0: 90s reached=266/266 median=0.0811s audit=1.0000 final_ok=True
+[es_light] rep 1: 82s reached=259/259 median=0.0866s audit=1.0000 final_ok=True
+[es_light] rep 2: 93s reached=273/273 median=0.0873s audit=1.0000 final_ok=True
+[es_light] rep 3: 87s reached=264/264 median=0.0835s audit=1.0000 final_ok=True
+[es_light] rep 4: 92s reached=269/269 median=0.0906s audit=1.0000 final_ok=True
+[es_light] rep 5: 96s reached=269/269 median=0.0814s audit=1.0000 final_ok=True
+[es_light] rep 6: 99s reached=275/275 median=0.0848s audit=1.0000 final_ok=True
+[es_light] rep 7: 92s reached=273/273 median=0.0764s audit=1.0000 final_ok=True
+[es_light] rep 8: 90s reached=271/271 median=0.0865s audit=1.0000 final_ok=True
+[es_light] rep 9: 98s reached=273/273 median=0.0836s audit=1.0000 final_ok=True
+[b2_light] rep 0: 88s reached=266/266 median=0.0092s audit=1.0000 final_ok=True
+[b2_light] rep 1: 76s reached=258/258 median=0.0092s audit=1.0000 final_ok=True
+[b2_light] rep 2: 96s reached=272/272 median=0.0090s audit=1.0000 final_ok=True
+[b2_light] rep 3: 80s reached=267/267 median=0.0092s audit=1.0000 final_ok=True
+[b2_light] rep 4: 85s reached=271/271 median=0.0087s audit=1.0000 final_ok=True
+[b2_light] rep 5: 92s reached=269/269 median=0.0088s audit=1.0000 final_ok=True
+[b2_light] rep 6: 94s reached=275/275 median=0.0091s audit=1.0000 final_ok=True
+[b2_light] rep 7: 91s reached=274/274 median=0.0091s audit=1.0000 final_ok=True
+[b2_light] rep 8: 90s reached=271/271 median=0.0094s audit=1.0000 final_ok=True
+[b2_light] rep 9: 91s reached=273/273 median=0.0095s audit=1.0000 final_ok=True
+[mix_tighten_heavy] rep 0: 105s reached=284/284 median=0.0854s audit=1.0000 final_ok=True
+[mix_tighten_heavy] rep 1: 93s reached=285/285 median=0.0859s audit=1.0000 final_ok=True
+[mix_tighten_heavy] rep 2: 88s reached=281/281 median=0.0822s audit=1.0000 final_ok=True
+[mix_relax_heavy] rep 0: 89s reached=285/285 median=0.0879s audit=1.0000 final_ok=True
+[mix_relax_heavy] rep 1: 86s reached=286/286 median=0.0835s audit=1.0000 final_ok=True
+[mix_relax_heavy] rep 2: 96s reached=281/281 median=0.0850s audit=1.0000 final_ok=True
+[mix_rollback_heavy] rep 0: 97s reached=188/188 median=0.0822s audit=1.0000 final_ok=True
+[mix_rollback_heavy] rep 1: 86s reached=185/185 median=0.0826s audit=1.0000 final_ok=True
+[mix_rollback_heavy] rep 2: 95s reached=192/192 median=0.0877s audit=1.0000 final_ok=True
+[mix_create_heavy] rep 0: 96s reached=286/286 median=0.0832s audit=1.0000 final_ok=True
+[mix_create_heavy] rep 1: 93s reached=289/289 median=0.0855s audit=1.0000 final_ok=True
+[mix_create_heavy] rep 2: 83s reached=285/285 median=0.0794s audit=1.0000 final_ok=True
+es_light_r0 {'C1': 0, 'C2': 0, 'C3': 0, 'C4': 0, 'C5': 0, 'C6': 0, 'C7': 0, 'C8': 0, 'C9': 0, 'C10': 0} {'events': 2110, 'rules': 288, 'final_pairs': 1084}
+es_light_r1 {'C1': 0, 'C2': 0, 'C3': 0, 'C4': 0, 'C5': 0, 'C6': 0, 'C7': 0, 'C8': 0, 'C9': 0, 'C10': 0} {'events': 2075, 'rules': 284, 'final_pairs': 1100}
+es_light_r2 {'C1': 0, 'C2': 0, 'C3': 0, 'C4': 0, 'C5': 0, 'C6': 0, 'C7': 0, 'C8': 0, 'C9': 0, 'C10': 0} {'events': 2145, 'rules': 290, 'final_pairs': 1100}
+es_light_r3 {'C1': 0, 'C2': 0, 'C3': 0, 'C4': 0, 'C5': 0, 'C6': 0, 'C7': 0, 'C8': 0, 'C9': 0, 'C10': 0} {'events': 2100, 'rules': 283, 'final_pairs': 1076}
+es_light_r4 {'C1': 0, 'C2': 0, 'C3': 0, 'C4': 0, 'C5': 0, 'C6': 0, 'C7': 0, 'C8': 0, 'C9': 0, 'C10': 0} {'events': 2125, 'rules': 285, 'final_pairs': 1064}
+es_light_r5 {'C1': 0, 'C2': 0, 'C3': 0, 'C4': 0, 'C5': 0, 'C6': 0, 'C7': 0, 'C8': 0, 'C9': 0, 'C10': 0} {'events': 2125, 'rules': 275, 'final_pairs': 1040}
+es_light_r6 {'C1': 0, 'C2': 0, 'C3': 0, 'C4': 0, 'C5': 0, 'C6': 0, 'C7': 0, 'C8': 0, 'C9': 0, 'C10': 0} {'events': 2155, 'rules': 287, 'final_pairs': 1084}
+es_light_r7 {'C1': 0, 'C2': 0, 'C3': 0, 'C4': 0, 'C5': 0, 'C6': 0, 'C7': 0, 'C8': 0, 'C9': 0, 'C10': 0} {'events': 2145, 'rules': 282, 'final_pairs': 1096}
+es_light_r8 {'C1': 0, 'C2': 0, 'C3': 0, 'C4': 0, 'C5': 0, 'C6': 0, 'C7': 0, 'C8': 0, 'C9': 0, 'C10': 0} {'events': 2135, 'rules': 286, 'final_pairs': 1104}
+es_light_r9 {'C1': 0, 'C2': 0, 'C3': 0, 'C4': 0, 'C5': 0, 'C6': 0, 'C7': 0, 'C8': 0, 'C9': 0, 'C10': 0} {'events': 2145, 'rules': 289, 'final_pairs': 1124}
+mix_create_heavy_r0 {'C1': 0, 'C2': 0, 'C3': 0, 'C4': 0, 'C5': 0, 'C6': 0, 'C7': 0, 'C8': 0, 'C9': 0, 'C10': 0} {'events': 2210, 'rules': 409, 'final_pairs': 1568}
+mix_create_heavy_r1 {'C1': 0, 'C2': 0, 'C3': 0, 'C4': 0, 'C5': 0, 'C6': 0, 'C7': 0, 'C8': 0, 'C9': 0, 'C10': 0} {'events': 2225, 'rules': 418, 'final_pairs': 1636}
+mix_create_heavy_r2 {'C1': 0, 'C2': 0, 'C3': 0, 'C4': 0, 'C5': 0, 'C6': 0, 'C7': 0, 'C8': 0, 'C9': 0, 'C10': 0} {'events': 2205, 'rules': 405, 'final_pairs': 1560}
+mix_relax_heavy_r0 {'C1': 0, 'C2': 0, 'C3': 0, 'C4': 0, 'C5': 0, 'C6': 0, 'C7': 0, 'C8': 0, 'C9': 0, 'C10': 0} {'events': 2205, 'rules': 268, 'final_pairs': 1004}
+mix_relax_heavy_r1 {'C1': 0, 'C2': 0, 'C3': 0, 'C4': 0, 'C5': 0, 'C6': 0, 'C7': 0, 'C8': 0, 'C9': 0, 'C10': 0} {'events': 2210, 'rules': 277, 'final_pairs': 1072}
+mix_relax_heavy_r2 {'C1': 0, 'C2': 0, 'C3': 0, 'C4': 0, 'C5': 0, 'C6': 0, 'C7': 0, 'C8': 0, 'C9': 0, 'C10': 0} {'events': 2185, 'rules': 271, 'final_pairs': 1024}
+mix_rollback_heavy_r0 {'C1': 0, 'C2': 0, 'C3': 0, 'C4': 0, 'C5': 0, 'C6': 0, 'C7': 0, 'C8': 0, 'C9': 0, 'C10': 0} {'events': 1720, 'rules': 258, 'final_pairs': 964}
+mix_rollback_heavy_r1 {'C1': 0, 'C2': 0, 'C3': 0, 'C4': 0, 'C5': 0, 'C6': 0, 'C7': 0, 'C8': 0, 'C9': 0, 'C10': 0} {'events': 1705, 'rules': 276, 'final_pairs': 1068}
+mix_rollback_heavy_r2 {'C1': 0, 'C2': 0, 'C3': 0, 'C4': 0, 'C5': 0, 'C6': 0, 'C7': 0, 'C8': 0, 'C9': 0, 'C10': 0} {'events': 1740, 'rules': 268, 'final_pairs': 1012}
+mix_tighten_heavy_r0 {'C1': 0, 'C2': 0, 'C3': 0, 'C4': 0, 'C5': 0, 'C6': 0, 'C7': 0, 'C8': 0, 'C9': 0, 'C10': 0} {'events': 2200, 'rules': 268, 'final_pairs': 1004}
+mix_tighten_heavy_r1 {'C1': 0, 'C2': 0, 'C3': 0, 'C4': 0, 'C5': 0, 'C6': 0, 'C7': 0, 'C8': 0, 'C9': 0, 'C10': 0} {'events': 2205, 'rules': 277, 'final_pairs': 1072}
+mix_tighten_heavy_r2 {'C1': 0, 'C2': 0, 'C3': 0, 'C4': 0, 'C5': 0, 'C6': 0, 'C7': 0, 'C8': 0, 'C9': 0, 'C10': 0} {'events': 2185, 'rules': 271, 'final_pairs': 1024}
+self-test {'C1_duplicate_event': 1.0, 'C2_edit_without_rehash': 1.0, 'C3_self_approval': 1.0, 'C3_author_promotes': 1.0, 'C4_no_justification': 1.0, 'C4_risk_mislabelled': 1.0, 'C5_skip_environment': 1.0, 'C5_promote_unapproved': 1.0, 'C6_lost_update': 1.0, 'C7_event_not_applied': 1.0, 'C8_patient_identifier': 1.0, 'C10_projection_drift': 1.0}

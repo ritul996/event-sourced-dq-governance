@@ -1,0 +1,414 @@
+{
+ "runs": {
+  "es_light_r0": {
+   "violations": {
+    "C1": 0,
+    "C2": 0,
+    "C3": 0,
+    "C4": 0,
+    "C5": 0,
+    "C6": 0,
+    "C7": 0,
+    "C8": 0,
+    "C9": 0,
+    "C10": 0
+   },
+   "examples": {},
+   "events": 2110,
+   "rules": 288,
+   "final_pairs": 1084
+  },
+  "es_light_r1": {
+   "violations": {
+    "C1": 0,
+    "C2": 0,
+    "C3": 0,
+    "C4": 0,
+    "C5": 0,
+    "C6": 0,
+    "C7": 0,
+    "C8": 0,
+    "C9": 0,
+    "C10": 0
+   },
+   "examples": {},
+   "events": 2075,
+   "rules": 284,
+   "final_pairs": 1100
+  },
+  "es_light_r2": {
+   "violations": {
+    "C1": 0,
+    "C2": 0,
+    "C3": 0,
+    "C4": 0,
+    "C5": 0,
+    "C6": 0,
+    "C7": 0,
+    "C8": 0,
+    "C9": 0,
+    "C10": 0
+   },
+   "examples": {},
+   "events": 2145,
+   "rules": 290,
+   "final_pairs": 1100
+  },
+  "es_light_r3": {
+   "violations": {
+    "C1": 0,
+    "C2": 0,
+    "C3": 0,
+    "C4": 0,
+    "C5": 0,
+    "C6": 0,
+    "C7": 0,
+    "C8": 0,
+    "C9": 0,
+    "C10": 0
+   },
+   "examples": {},
+   "events": 2100,
+   "rules": 283,
+   "final_pairs": 1076
+  },
+  "es_light_r4": {
+   "violations": {
+    "C1": 0,
+    "C2": 0,
+    "C3": 0,
+    "C4": 0,
+    "C5": 0,
+    "C6": 0,
+    "C7": 0,
+    "C8": 0,
+    "C9": 0,
+    "C10": 0
+   },
+   "examples": {},
+   "events": 2125,
+   "rules": 285,
+   "final_pairs": 1064
+  },
+  "es_light_r5": {
+   "violations": {
+    "C1": 0,
+    "C2": 0,
+    "C3": 0,
+    "C4": 0,
+    "C5": 0,
+    "C6": 0,
+    "C7": 0,
+    "C8": 0,
+    "C9": 0,
+    "C10": 0
+   },
+   "examples": {},
+   "events": 2125,
+   "rules": 275,
+   "final_pairs": 1040
+  },
+  "es_light_r6": {
+   "violations": {
+    "C1": 0,
+    "C2": 0,
+    "C3": 0,
+    "C4": 0,
+    "C5": 0,
+    "C6": 0,
+    "C7": 0,
+    "C8": 0,
+    "C9": 0,
+    "C10": 0
+   },
+   "examples": {},
+   "events": 2155,
+   "rules": 287,
+   "final_pairs": 1084
+  },
+  "es_light_r7": {
+   "violations": {
+    "C1": 0,
+    "C2": 0,
+    "C3": 0,
+    "C4": 0,
+    "C5": 0,
+    "C6": 0,
+    "C7": 0,
+    "C8": 0,
+    "C9": 0,
+    "C10": 0
+   },
+   "examples": {},
+   "events": 2145,
+   "rules": 282,
+   "final_pairs": 1096
+  },
+  "es_light_r8": {
+   "violations": {
+    "C1": 0,
+    "C2": 0,
+    "C3": 0,
+    "C4": 0,
+    "C5": 0,
+    "C6": 0,
+    "C7": 0,
+    "C8": 0,
+    "C9": 0,
+    "C10": 0
+   },
+   "examples": {},
+   "events": 2135,
+   "rules": 286,
+   "final_pairs": 1104
+  },
+  "es_light_r9": {
+   "violations": {
+    "C1": 0,
+    "C2": 0,
+    "C3": 0,
+    "C4": 0,
+    "C5": 0,
+    "C6": 0,
+    "C7": 0,
+    "C8": 0,
+    "C9": 0,
+    "C10": 0
+   },
+   "examples": {},
+   "events": 2145,
+   "rules": 289,
+   "final_pairs": 1124
+  },
+  "mix_create_heavy_r0": {
+   "violations": {
+    "C1": 0,
+    "C2": 0,
+    "C3": 0,
+    "C4": 0,
+    "C5": 0,
+    "C6": 0,
+    "C7": 0,
+    "C8": 0,
+    "C9": 0,
+    "C10": 0
+   },
+   "examples": {},
+   "events": 2210,
+   "rules": 409,
+   "final_pairs": 1568
+  },
+  "mix_create_heavy_r1": {
+   "violations": {
+    "C1": 0,
+    "C2": 0,
+    "C3": 0,
+    "C4": 0,
+    "C5": 0,
+    "C6": 0,
+    "C7": 0,
+    "C8": 0,
+    "C9": 0,
+    "C10": 0
+   },
+   "examples": {},
+   "events": 2225,
+   "rules": 418,
+   "final_pairs": 1636
+  },
+  "mix_create_heavy_r2": {
+   "violations": {
+    "C1": 0,
+    "C2": 0,
+    "C3": 0,
+    "C4": 0,
+    "C5": 0,
+    "C6": 0,
+    "C7": 0,
+    "C8": 0,
+    "C9": 0,
+    "C10": 0
+   },
+   "examples": {},
+   "events": 2205,
+   "rules": 405,
+   "final_pairs": 1560
+  },
+  "mix_relax_heavy_r0": {
+   "violations": {
+    "C1": 0,
+    "C2": 0,
+    "C3": 0,
+    "C4": 0,
+    "C5": 0,
+    "C6": 0,
+    "C7": 0,
+    "C8": 0,
+    "C9": 0,
+    "C10": 0
+   },
+   "examples": {},
+   "events": 2205,
+   "rules": 268,
+   "final_pairs": 1004
+  },
+  "mix_relax_heavy_r1": {
+   "violations": {
+    "C1": 0,
+    "C2": 0,
+    "C3": 0,
+    "C4": 0,
+    "C5": 0,
+    "C6": 0,
+    "C7": 0,
+    "C8": 0,
+    "C9": 0,
+    "C10": 0
+   },
+   "examples": {},
+   "events": 2210,
+   "rules": 277,
+   "final_pairs": 1072
+  },
+  "mix_relax_heavy_r2": {
+   "violations": {
+    "C1": 0,
+    "C2": 0,
+    "C3": 0,
+    "C4": 0,
+    "C5": 0,
+    "C6": 0,
+    "C7": 0,
+    "C8": 0,
+    "C9": 0,
+    "C10": 0
+   },
+   "examples": {},
+   "events": 2185,
+   "rules": 271,
+   "final_pairs": 1024
+  },
+  "mix_rollback_heavy_r0": {
+   "violations": {
+    "C1": 0,
+    "C2": 0,
+    "C3": 0,
+    "C4": 0,
+    "C5": 0,
+    "C6": 0,
+    "C7": 0,
+    "C8": 0,
+    "C9": 0,
+    "C10": 0
+   },
+   "examples": {},
+   "events": 1720,
+   "rules": 258,
+   "final_pairs": 964
+  },
+  "mix_rollback_heavy_r1": {
+   "violations": {
+    "C1": 0,
+    "C2": 0,
+    "C3": 0,
+    "C4": 0,
+    "C5": 0,
+    "C6": 0,
+    "C7": 0,
+    "C8": 0,
+    "C9": 0,
+    "C10": 0
+   },
+   "examples": {},
+   "events": 1705,
+   "rules": 276,
+   "final_pairs": 1068
+  },
+  "mix_rollback_heavy_r2": {
+   "violations": {
+    "C1": 0,
+    "C2": 0,
+    "C3": 0,
+    "C4": 0,
+    "C5": 0,
+    "C6": 0,
+    "C7": 0,
+    "C8": 0,
+    "C9": 0,
+    "C10": 0
+   },
+   "examples": {},
+   "events": 1740,
+   "rules": 268,
+   "final_pairs": 1012
+  },
+  "mix_tighten_heavy_r0": {
+   "violations": {
+    "C1": 0,
+    "C2": 0,
+    "C3": 0,
+    "C4": 0,
+    "C5": 0,
+    "C6": 0,
+    "C7": 0,
+    "C8": 0,
+    "C9": 0,
+    "C10": 0
+   },
+   "examples": {},
+   "events": 2200,
+   "rules": 268,
+   "final_pairs": 1004
+  },
+  "mix_tighten_heavy_r1": {
+   "violations": {
+    "C1": 0,
+    "C2": 0,
+    "C3": 0,
+    "C4": 0,
+    "C5": 0,
+    "C6": 0,
+    "C7": 0,
+    "C8": 0,
+    "C9": 0,
+    "C10": 0
+   },
+   "examples": {},
+   "events": 2205,
+   "rules": 277,
+   "final_pairs": 1072
+  },
+  "mix_tighten_heavy_r2": {
+   "violations": {
+    "C1": 0,
+    "C2": 0,
+    "C3": 0,
+    "C4": 0,
+    "C5": 0,
+    "C6": 0,
+    "C7": 0,
+    "C8": 0,
+    "C9": 0,
+    "C10": 0
+   },
+   "examples": {},
+   "events": 2185,
+   "rules": 271,
+   "final_pairs": 1024
+  }
+ },
+ "self_test": {
+  "C1_duplicate_event": 1.0,
+  "C2_edit_without_rehash": 1.0,
+  "C3_self_approval": 1.0,
+  "C3_author_promotes": 1.0,
+  "C4_no_justification": 1.0,
+  "C4_risk_mislabelled": 1.0,
+  "C5_skip_environment": 1.0,
+  "C5_promote_unapproved": 1.0,
+  "C6_lost_update": 1.0,
+  "C7_event_not_applied": 1.0,
+  "C8_patient_identifier": 1.0,
+  "C10_projection_drift": 1.0
+ }
+}

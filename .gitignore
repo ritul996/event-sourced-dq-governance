@@ -1,0 +1,15 @@
+# generated data (rebuilt by dqsim/prepare_data.py; too large for git)
+data/
+out/
+synthea.jar
+*.duckdb
+*.duckdb.wal
+# raw run directories and the generated dbt project
+results/_keep/
+results/_diag/
+results/baseline/dbt_project/
+# python / OS
+__pycache__/
+*.pyc
+.venv/
+.DS_Store

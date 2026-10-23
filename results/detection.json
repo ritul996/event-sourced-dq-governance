@@ -1,0 +1,138 @@
+{
+ "01": {
+  "T1_impossible": {
+   "flagged": 5416,
+   "injected": 5416,
+   "tp": 5416,
+   "precision": 1.0,
+   "recall": 1.0
+  },
+  "T2_implausible": {
+   "flagged": 12033,
+   "injected": 5313,
+   "tp": 5313,
+   "precision": 0.44153577661431065,
+   "recall": 1.0
+  },
+  "T3_sex": {
+   "flagged": 116,
+   "injected": 115,
+   "tp": 115,
+   "precision": 0.9913793103448276,
+   "recall": 1.0
+  },
+  "T4_age": {
+   "flagged": 116,
+   "injected": 115,
+   "tp": 115,
+   "precision": 0.9913793103448276,
+   "recall": 1.0
+  },
+  "T5_unit": {
+   "flagged": 21828,
+   "injected": 5198,
+   "tp": 5198,
+   "precision": 0.23813450613890416,
+   "recall": 1.0
+  },
+  "T6_med_dx": {
+   "flagged": 115,
+   "injected": 115,
+   "tp": 115,
+   "precision": 1.0,
+   "recall": 1.0
+  }
+ },
+ "05": {
+  "T1_impossible": {
+   "flagged": 27177,
+   "injected": 27177,
+   "tp": 27177,
+   "precision": 1.0,
+   "recall": 1.0
+  },
+  "T2_implausible": {
+   "flagged": 55111,
+   "injected": 26659,
+   "tp": 26659,
+   "precision": 0.4837328301065123,
+   "recall": 1.0
+  },
+  "T3_sex": {
+   "flagged": 584,
+   "injected": 575,
+   "tp": 575,
+   "precision": 0.9845890410958904,
+   "recall": 1.0
+  },
+  "T4_age": {
+   "flagged": 583,
+   "injected": 575,
+   "tp": 575,
+   "precision": 0.9862778730703259,
+   "recall": 1.0
+  },
+  "T5_unit": {
+   "flagged": 42242,
+   "injected": 25800,
+   "tp": 25800,
+   "precision": 0.6107665356753942,
+   "recall": 1.0
+  },
+  "T6_med_dx": {
+   "flagged": 574,
+   "injected": 575,
+   "tp": 574,
+   "precision": 1.0,
+   "recall": 0.9982608695652174
+  }
+ },
+ "10": {
+  "T1_impossible": {
+   "flagged": 54312,
+   "injected": 54312,
+   "tp": 54312,
+   "precision": 1.0,
+   "recall": 1.0
+  },
+  "T2_implausible": {
+   "flagged": 108385,
+   "injected": 52850,
+   "tp": 52850,
+   "precision": 0.48761359966785073,
+   "recall": 1.0
+  },
+  "T3_sex": {
+   "flagged": 1164,
+   "injected": 1150,
+   "tp": 1150,
+   "precision": 0.9879725085910653,
+   "recall": 1.0
+  },
+  "T4_age": {
+   "flagged": 1167,
+   "injected": 1150,
+   "tp": 1150,
+   "precision": 0.9854327335047129,
+   "recall": 1.0
+  },
+  "T5_unit": {
+   "flagged": 68243,
+   "injected": 52110,
+   "tp": 52110,
+   "precision": 0.7635948009319637,
+   "recall": 1.0
+  },
+  "T6_med_dx": {
+   "flagged": 1148,
+   "injected": 1150,
+   "tp": 1148,
+   "precision": 1.0,
+   "recall": 0.9982608695652174
+  }
+ },
+ "control_check": {
+  "rules_compared": 240,
+  "rules_differing": 0
+ }
+}
